@@ -18,7 +18,7 @@ textarea {
 }
 
 #emails-view > div:hover {
-    background-color: dimgray;
+    background-color:darkgrey;
 }
 
 #emails-view > div > p {
